@@ -21,7 +21,7 @@ The landmass of the project is created from a papyrus fabric cut into the shape 
 ### Cities & Keeps (Lights)
 The castles of game of thrones are divided in their structure between Westeros and Essos (West and East continents). Westeros has a feudal system much like medieval Europe, where families and clans would make alliances, declare war, and most importantly: bend the knee. To demonstrate this in this project, the LEDs used for the different cities house's colors match their color in the show! Red for Lannister, Orange for Dorne, etc. Normal LEDs, likes ones on a christmas tree, are used for these general colors, and more complex colors like teal for The Vale are done with the limited Neopixels I had for the midterm.  
 
-Essos on the other hand is filled with self governing cities. Since there is no house color to base the cities off, I decided to use Neopixels for every city in Essos. With them all being Neopixels, I was able to program their color to match the culture, traditions, and beliefs associated with each city in Essos. For instance, <ins>**SPOILER**</ins>
+Essos on the other hand is filled with self governing cities. Since there is no house color to base the cities off, I decided to use Neopixels for every city in Essos. With them all being Neopixels, I was able to program their color to match the culture, traditions, and beliefs associated with each city in Essos. For instance, (<ins>**SPOILER**</ins>) Braavos, a city where the many faced god resides is a tealish color, since their practices consist of water, illisions, and espionage.
 
 ### Wiring
 
