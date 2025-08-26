@@ -44,11 +44,14 @@ Each Arduino is connected to a battery of some kind. The Westeros Arduino has a 
 
 Below is the front and back of the tapestry with the lights on normally.   
     
-   ![Game of Thrones Front Picture](GoTFront)
+   ![Game of Thrones Front Picture](GoTFront.jpg)
    
 <sub>Yes, it says 'Game O Throne'! I ran out of silver thread the night before it was due, and at this point, it's more canon than season 8.</sub>  
    
 As you can see, the back had a decent start in Westeros but quickly devolved after scope creep convinced me to add the Iron Islands and the Riverlands. The wiring fails to impress after this decision, and is more impressive for the fact that it doesn't short anywhere!  
+  
+  ![Game of Thrones Back Picture](GoTBack.jpg)
+
   
 Jokes aside, Essos' wiring is a lot cleaner and uniform in the conductive threading department, due to all being the same type of light, and needing all these lights to run in parallel meant a lot of project planning took place.  
   
