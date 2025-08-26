@@ -53,7 +53,9 @@ As you can see, the back had a decent start in Westeros but quickly devolved aft
   ![Game of Thrones Back Picture](GoTBack.jpg)
 
   
-Jokes aside, Essos' wiring is a lot cleaner and uniform in the conductive threading department, due to all being the same type of light, and needing all these lights to run in parallel meant a lot of project planning took place.  
+Jokes aside, Essos' wiring is a lot cleaner and uniform in the conductive thread department, due to all being the same type of light, and needing all these lights to run in parallel meant a lot of project planning took place. Westeros ended up needing a lot more patch jobs since it was also done first, and about 2 months before Essos, which was only a few days before this picture was taken. If I could fix one thing, it would be that, but if it works, it works!   
   
-I landed on this 4 to 8 split for the Neopixels, since power consumption through the USB port is around 3V, while the Neopixels are supposed to have around 4.4V. This means that around 4 of them generally work off just the USB. The other 8 Neopixels can be completely powered by the 5V battery, and all 12 can be powered by the battery if the brightness is turned down. This allows the tapestry to hang proudly on any wall for the small cost of 80 hours and around $100 of electronics (if you're lucky), $30 for fabric, and $20 for conductive thread, along with sewing needles and normal thread. But hey, it's a great conversation piece for life!
+I landed on this 4 to 8 split for the Neopixels in Essos, since power consumption through the USB port is around 3V, while the Neopixels are supposed to have around 4.4V. This means that around 4 of them generally work off just the USB. The other 8 Neopixels can be completely powered by the 5V battery, and all 12 can be powered by the battery if the brightness is turned down.  
+  
+This allows the tapestry to hang proudly on any wall for the small cost of 80 hours and around $100 of electronics (if you're lucky), $30 for fabric, and $20 for conductive thread, along with sewing needles and normal thread. But hey, it's a great conversation piece for life!
   
