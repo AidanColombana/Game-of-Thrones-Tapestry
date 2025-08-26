@@ -1,5 +1,5 @@
 # Game of Thrones Tapestry 
-This project consists of 2 seperate .ino files for Arduino boards, and, of course, everything else on the 2ft by 3ft tapestry that cannot go in a Github repo directly.
+This project consists of 2 seperate .ino files for Arduino boards, and, of course, everything else on the 2ft by 3ft tapestry that cannot go in a Github repo directly. For pictures of project, jump down to the bottom of the README which has the demonstration images, and even a video of the theme song off a arduino buzzer!
 
 ## Background
 
