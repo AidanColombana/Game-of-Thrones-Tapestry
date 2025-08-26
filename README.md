@@ -11,5 +11,10 @@ I am no good at sewing, and electrical circuitry is more of a personal passion t
 
 ## Implementation
 
+### Background
+The map itself is created on a black background tapestry which acts as the 'motherboard' of the project. This is because every piece of electronics on the tapestry is connected using conductive thread, and if ANY of them touch, it will short the arduino and turn off for safety reasons. This means the electrical thread is (for the most part) extremely organized, well spaced, and definitely did not make me almost rage quit the project.
+
+### Land Mass
+
 ## Demonstration
 
