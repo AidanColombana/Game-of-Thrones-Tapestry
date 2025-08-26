@@ -3,12 +3,12 @@ This project consists of 2 separate .ino files for Arduino boards, and, of cours
 
 ## Background
 
-This project was created originally for my CSCI 497 class, but quickly became a passion project as I spent an obscene amount of time creating a completely functional and (relatively) to-scale map of the Game of Thrones universe. The map I used was the concept map for the show adaptation's later seasons, which in the end isn't the 'canon' map, or even makes sense in-universe, but who cares! Definitely not me! ~~I will never forgive you, David Benioff and D.B. Weiss~~ 😅
+This project was created for my CSCI 497 midterm, but quickly became a passion project as I spent an obscene amount of time creating a completely functional and (relatively) to-scale map of the Game of Thrones universe. The map I used was the concept map for the show adaptation's later seasons, which in the end isn't the 'canon' map, or even makes sense in-universe, but who cares! Definitely not me... ~~I will never forgive you, David Benioff and D.B. Weiss~~ 😅
 
 ## Concepts
 
 This project combines 3 core skills: Sewing, Electrical circuitry, and 2 Arduino's C++ programming.
-I am no good at sewing, and electrical circuitry is more of a personal passion than my profession, but in the end, a working tapestry was made! By combining actuators and sensors along the various pins available on both my first Arduino board (Lilypad Protosnap Plus) and my second board (FLORA), allowing for one of the most complex projects I have completed.
+I am no good at sewing, and electrical circuitry is more of a personal passion than my profession, but in the end, a working tapestry was made! By combining actuators and sensors along the various pins available on both my first Arduino board (Lilypad Protosnap Plus) and my second Arduino board (FLORA), leading to one of the most time-consuming projects I have completed.
 
 ## Implementation
 
@@ -42,3 +42,11 @@ Each Arduino is connected to a battery of some kind. The Westeros Arduino has a 
 
 ## Demonstration
 
+Below is the front and back of the tapestry with the lights on normally.
+
+As you can see, the back had a decent start in Westeros but quickly devolved after scope creep convinced me to add the Iron Islands and the Riverlands. The wiring fails to impress after this decision, and is more impressive for the fact that it doesn't short anywhere!  
+  
+  
+Jokes aside, Essos' wiring is a lot cleaner and uniform in the conductive threading department, due to all being the same type of light, and needing all these lights to run in parallel meant a lot of project planning took place.  
+  
+I landed on this 4 to 8 split for the Neopixels, since power consumption through the USB port is around 3V, while the Neopixels are supposed to have around 4.4V. This means that around 4 of them generally work off just the USB. The other 8 Neopixels can be completely powered by the 5V battery, and all 12 can be powered by the battery if the brightness is turned down. This allows the tapestry to hang proudly on any wall for the small cost of 80 hours and around $100 of electronics (if you're lucky), $30 for fabric, and $20 for conductive thread, along with sewing needles and normal thread. But hey, it's a great conversation piece for life!
