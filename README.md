@@ -7,7 +7,7 @@ This project was created for my CSCI 497 midterm, but quickly became a passion p
 
 ## Concepts
 
-This project combines 3 core skills: Sewing, Electrical circuitry, and 2 Arduino's C++ programming.
+This project combines 3 core skills: Sewing, Electrical circuitry, and 2 Arduino's for some C++ programming.
 I am no good at sewing, and electrical circuitry is more of a personal passion than my profession, but in the end, a working tapestry was made! By combining actuators and sensors along the various pins available on both my first Arduino board (Lilypad Protosnap Plus) and my second Arduino board (FLORA), leading to one of the most time-consuming projects I have completed.
 
 ## Implementation
