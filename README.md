@@ -42,8 +42,6 @@ Each Arduino is connected to a battery of some kind. The Westeros Arduino has a 
 
 ## Demonstration
   
-### Video
-
 ### Images & Explanation 
 Below is the front and back of the tapestry with the lights on normally.   
     
