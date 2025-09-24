@@ -39,7 +39,6 @@ Unlike Westeros' Arduino, Essos does not have a buzzer or button connected to it
 ### Power
 Each Arduino is connected to a battery of some kind. The Westeros Arduino has a 3.3V rechargeable battery, which recharges when the Arduino is connected to a computer, while the Essos Arduino consists of a 5V battery pack containing 3 AAA batteries.
 
-
 ## Demonstration
   
 ### Images & Explanation 
